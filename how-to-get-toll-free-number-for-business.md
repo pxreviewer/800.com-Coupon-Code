@@ -76,7 +76,8 @@ If you have a team, toll-free services let you build out call queues, ring group
 
 ## Toll-Free Number Prefixes Explained — 800, 888, 877, 866, 855, 844 & 833 🔢
 
-All of these prefixes work exactly the same way for the caller — they're all free to dial. The difference is simply availability and brand recognition.
+All of these <a href="https://www.fcc.gov/consumers/guides/what-toll-free-number-and-how-does-it-work" target="_blank" rel="nofollow noopener">
+toll-free prefix</a> work exactly the same way for the caller — they're all free to dial. The difference is simply availability and brand recognition.
 
 | Prefix | Notes |
 |--------|-------|
