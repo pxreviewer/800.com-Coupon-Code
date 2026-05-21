@@ -1,8 +1,8 @@
 
 # How to Get a Toll-Free Number for Your Business (2026 Guide)
-
-![How to Get a Toll-Free Number](./images/toll-free-number-guide.png)
-
+<p align="center">
+<img src="./images/toll-free-number-guide.png" width="600">
+</p>
 ## Introduction
 
 📞 Ever called a business and noticed they have a 1-800 number? There's a reason big brands use them — and it's not just about looking fancy. A toll-free number instantly signals that your business is serious, accessible, and customer-friendly. Whether you're a solo consultant, an e-commerce store, or a growing startup, having a professional business phone number can be a real game-changer.
@@ -95,6 +95,10 @@ All of these prefixes work exactly the same way for the caller — they're all f
 ## Toll-Free Number vs Local Number vs Vanity Number ⚖️
 
 Not sure which type of number is right for you? Here's a quick comparison:
+
+<p align="center">
+<img src="./images/toll-free-vs-local-vs-vanity-number.png" width="600">
+</p>
 
 | Feature | Toll-Free Number | Local Number | Vanity Number |
 |---------|-----------------|--------------|---------------|
