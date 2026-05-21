@@ -1,6 +1,8 @@
 
 # How to Get a Toll-Free Number for Your Business (2026 Guide)
-![How to Get a Toll-Free Number](./images/toll-free-number-guide.jpg)
+
+![How to Get a Toll-Free Number](./images/toll-free-number-guide.png)
+
 ## Introduction
 
 📞 Ever called a business and noticed they have a 1-800 number? There's a reason big brands use them — and it's not just about looking fancy. A toll-free number instantly signals that your business is serious, accessible, and customer-friendly. Whether you're a solo consultant, an e-commerce store, or a growing startup, having a professional business phone number can be a real game-changer.
