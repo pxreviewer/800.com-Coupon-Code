@@ -111,7 +111,7 @@ If you want customers to *remember* your number long after they hear it, a vanit
 
 ### What Is a Vanity Number?
 
-A vanity number is a toll-free or local number where the digits spell out a word, phrase, or acronym on a phone keypad. Think 1-800-FLOWERS or 1-800-LAWYERS.
+A vanity number is a <a href="https://www.iplum.com/blog/understanding-the-benefits-of-a-business-800-phone-number-for-growth" rel="nofollow noopener">toll-free</a> or local number where the digits spell out a word, phrase, or acronym on a phone keypad. Think 1-800-FLOWERS or 1-800-LAWYERS.
 
 These numbers are incredibly powerful because they are:
 
