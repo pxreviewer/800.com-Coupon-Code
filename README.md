@@ -172,7 +172,7 @@ Compare plans carefully:
 If a promo code field is available at checkout, enter your verified 800.com coupon code there. Some deals may apply automatically based on your plan selection or billing cycle.
 
 <p align="center">
-  <img src="./images/800-com-how-much-you-will-be-save-using-coupon-code.png" width="500">
+  <img src="./images/800 checkout page.png" width="500">
 </p>
 
 > 💡 **Pro Tip:** Before completing checkout, confirm the discount is clearly visible in your final price summary. If the code doesn't apply, try another from our list or check the official site for current offers.
@@ -198,9 +198,13 @@ After payment, set up your system:
 
 800.com offers monthly and annual billing. Annual billing saves you **15%** compared to paying month-to-month.
 
-> ⚠️ Pricing may change. Always check the [official 800.com pricing page](https://www.800.com/plans) for the latest rates.
+> ⚠️ Pricing may change. Always check the official 800.com pricing page for the latest rates.
 
 ### Pricing Table
+
+<p align="center">
+  <img src="./images/800-com-pricing-plan.png" width="700">
+</p>
 
 | Plan | Best For | Numbers | Minutes | Users | Price (Annual) | Price (Monthly) | Best Saving Tip |
 |------|----------|---------|---------|-------|----------------|-----------------|-----------------|
@@ -261,6 +265,10 @@ Set a custom professional greeting that plays when customers call. Instantly bui
 ### #️⃣ Extensions
 Create department or personal extensions. Press 1 for Sales, 2 for Support — it's that simple. **Best for:** Businesses with multiple team members or departments.
 
+<p align="center">
+  <img src="./images/Key-features-of-800-com.png" width="700">
+</p>
+
 ### 📠 Fax Number
 Send and receive faxes digitally without a fax machine. **Best for:** Law firms, medical offices, real estate agencies.
 
@@ -290,6 +298,10 @@ Integrate 800.com with your CRM, marketing tools, or custom workflows. **Best fo
 
 ### 🛡️ Call Screening
 See who is calling before you pick up. Filter spam and prepare for the conversation. **Best for:** Consultants, solo entrepreneurs.
+
+<p align="center">
+  <img src="./images/call-tracking-banner-800-com.png" width="700">
+</p>
 
 ### 🤖 AI Agents
 Automate customer interactions with AI-powered virtual assistants — even after hours. **Best for:** Businesses with high call volume, lead qualification, after-hours support.
@@ -352,6 +364,10 @@ These 800.com coupon codes are not permanent. Here’s why you should act now:
 - 🔄 If one code fails, try another because many discounts are **plan-specific**.
 
 - 🛠️ This page is updated every **48 hours** to keep offers fresh and verified.
+
+<p align="center">
+  <img src="./images/800-com-how-much-you-will-be-save-using-coupon-code.png" width="300">
+</p>
 
 ###💡 Pro Tip for Maximum Savings
 
