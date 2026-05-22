@@ -12,7 +12,7 @@ In this guide, you'll learn exactly **what a vanity number is**, how it works, t
 
 ---
 
-## What Is a Vanity Number? 📱
+## 📌 What Is a Vanity Number? 📱
 
 A vanity number is a custom phone number that's designed to be easy to remember. Instead of a random string of digits, it either spells out a word or phrase using the letters on a phone keypad, or uses a repeated/patterned sequence of numbers that sticks in your memory.
 
@@ -42,7 +42,7 @@ Vanity numbers are most commonly toll-free (starting with 800, 888, 877, 866, 85
 
 ---
 
-## How Does a Vanity Number Work? 🔄
+## 📌 How Does a Vanity Number Work? 🔄
 
 Vanity numbers work exactly like any other phone number — the "word" version is simply a human-friendly way to remember the digits underneath.
 
@@ -58,7 +58,7 @@ Most modern vanity numbers run on **VoIP (Voice over Internet Protocol)** system
 
 ---
 
-## Types of Vanity Numbers 🗂️
+## 📌 Types of Vanity Numbers 🗂️
 
 Not all vanity numbers look the same. Here are the main types:
 
@@ -96,7 +96,7 @@ These don't spell a word — instead, they use a repeated or sequential digit pa
 
 ---
 
-## Benefits of Getting a Vanity Number for Your Business ✅
+## 📌 Benefits of Getting a Vanity Number for Your Business ✅
 
 Vanity numbers aren't just about looking cool. They deliver real, measurable business benefits.
 
@@ -126,7 +126,7 @@ A dedicated vanity number keeps your personal cell number private while giving c
 
 ---
 
-## Vanity Number vs Toll-Free Number vs Local Number ⚖️
+## 📌 Vanity Number vs Toll-Free Number vs Local Number ⚖️
 
 People often confuse these terms. Here's a clear breakdown:
 
@@ -144,7 +144,7 @@ People often confuse these terms. Here's a clear breakdown:
 
 ---
 
-## Famous Vanity Number Examples to Inspire You 💡
+## 📌 Famous Vanity Number Examples to Inspire You 💡
 
 Looking for inspiration? Here are some of the most iconic vanity numbers ever used:
 
@@ -164,9 +164,13 @@ Notice a pattern? The best vanity numbers either:
 
 ---
 
-## How to Get a Vanity Number for Your Business — Step-by-Step 🛠️
+## 📌 How to Get a Vanity Number for Your Business — Step-by-Step 🛠️
 
 Here's the complete process from idea to live number.
+
+<p align="center">
+  <img src="./images/finding-a-toll-free-vanity-number.png" width="700">
+</p>
 
 ### Step 1: Brainstorm Your Vanity Number Ideas 💭
 
@@ -278,9 +282,10 @@ Only go live once everything checks out. Your vanity number is often the first i
 
 ---
 
-## How Much Does a Vanity Number Cost? 💰
+## 📌 How Much Does a Vanity Number Cost? 💰
 
-Vanity number pricing varies widely based on how desirable the number is, which provider you use, and what features are included. Here's a realistic overview:
+<a href="https://calleridreputation.com/blog/does-a-vanity-number-really-make-a-difference/" target="_blank" rel="nofollow noopener">
+Vanity number </a>pricing varies widely based on how desirable the number is, which provider you use, and what features are included. Here's a realistic overview:
 
 | Cost Component | Typical Range | Notes |
 |---------------|--------------|-------|
@@ -303,7 +308,7 @@ Vanity number pricing varies widely based on how desirable the number is, which 
 
 ---
 
-## Best Vanity Number Providers to Compare 🏅
+## 📌 Best Vanity Number Providers to Compare 🏅
 
 Here's a side-by-side overview of the top providers:
 
@@ -321,7 +326,7 @@ Here's a side-by-side overview of the top providers:
 
 ---
 
-## How to Choose the Perfect Vanity Number for Your Brand 🎯
+## 📌 How to Choose the Perfect Vanity Number for Your Brand 🎯
 
 Picking the right word or phrase is the most creative — and most important — part of getting a vanity number. Here's a practical framework:
 
@@ -348,7 +353,7 @@ Get a second (or third) opinion. What seems obvious to you might be confusing to
 
 ---
 
-## Important Features to Look for in a Vanity Number Service 🔎
+## 📌 Important Features to Look for in a Vanity Number Service 🔎
 
 When you're comparing providers, don't just look at the number — look at the whole service:
 
@@ -384,7 +389,7 @@ If you ever switch providers, make sure you can take your vanity number with you
 
 ---
 
-## Pros & Cons of Vanity Numbers ⚖️
+## 📌 Pros & Cons of Vanity Numbers ⚖️
 
 | ✅ Pros | ❌ Cons |
 |--------|--------|
@@ -398,7 +403,7 @@ If you ever switch providers, make sure you can take your vanity number with you
 
 ---
 
-## Common Mistakes to Avoid When Getting a Vanity Number ❌
+## 📌 Common Mistakes to Avoid When Getting a Vanity Number ❌
 
 **🔴 Picking a Word No One Can Spell**
 If customers aren't sure how to spell your word, they'll misdial. Test your number with real people before committing.
@@ -426,7 +431,7 @@ The vanity number market has shady resellers. Stick with reputable providers and
 
 ---
 
-## Is a Vanity Number Worth It for Small Businesses? 🤔
+## 📌 Is a Vanity Number Worth It for Small Businesses? 🤔
 
 **✅ Yes, it's worth it if…**
 
@@ -445,44 +450,9 @@ The vanity number market has shady resellers. Stick with reputable providers and
 - Your industry is **digital-first** and phone calls are rarely the primary conversion channel.
 
 The honest verdict: for most businesses that rely on phone calls for leads or customer service, a vanity number pays for itself quickly. The extra memorability translates directly into more calls and fewer lost leads.
-
 ---
 
-## Vanity Number FAQs ❓
-
-**What is a vanity number?**
-A vanity number is a custom phone number that either spells out a word or phrase (like 1-800-FLOWERS) using the letters on a phone keypad, or uses a memorable repeating pattern (like 1-888-222-2222). They're designed to be easy to remember.
-
-**Are vanity numbers toll-free?**
-Most vanity numbers are toll-free (starting with 800, 888, 877, etc.), which means customers can call for free. However, vanity numbers can also be local numbers with a geographic area code — it depends on what the business wants.
-
-**How do I get a vanity number for my business?**
-Choose a word or phrase, check availability through a provider like 800.com, RingBoost, or Grasshopper, pick a business phone plan, and set up call routing. Most providers let you get started in under an hour.
-
-**How much does a vanity number cost?**
-It varies widely. Basic toll-free vanity numbers start around $10–$50/month. Premium or rare numbers (like 1-800-LAWYER) can cost hundreds or thousands of dollars as a one-time purchase, plus monthly fees on top.
-
-**Can I get a 1-800 vanity number?**
-Yes, but popular words on the 800 prefix are mostly taken. Check availability — if your word isn't available on 800, try 888, 877, 844, or 833. They all work the same way.
-
-**Can I use a vanity number on my mobile phone?**
-Absolutely. Most modern providers offer mobile apps that let you manage your vanity number from your smartphone without revealing your personal number.
-
-**Can I port my vanity number to another provider?**
-Yes, vanity numbers can be ported (transferred) to another provider. Just make sure your provider supports portability before you sign up — some lock you in.
-
-**What's the difference between a vanity number and a toll-free number?**
-A toll-free number is any number starting with 800, 888, 877, etc. — it's free for customers to call. A vanity number is a *type* of phone number (toll-free or local) that's been customized to spell a word or use a memorable pattern. All vanity toll-free numbers are toll-free, but not all toll-free numbers are vanity numbers.
-
-**Do customers have to dial the letters or the numbers?**
-Either works. Customers can dial the letters (most modern phones map them to digits automatically) or the actual digits. Both reach the same number.
-
-**Can a small business afford a vanity number?**
-Yes. You don't need to buy a premium 800 number to get started. A vanity number on an 833 or 844 prefix can cost as little as $10–$25/month — very affordable even for solo businesses.
-
----
-
-## Final Verdict — Should You Get a Vanity Number? 🏁
+## 📌 Final Verdict — Should You Get a Vanity Number? 🏁
 
 Here's the bottom line: **vanity numbers work** — especially for businesses that advertise beyond digital channels, compete in crowded markets, or rely on inbound phone calls as a primary lead source.
 
@@ -501,5 +471,32 @@ Here's our recommendation by business type:
 
 Whatever you decide, make sure you **own your number**, set up your routing properly, and test everything before going public. A vanity number is only as powerful as the experience that answers it. 💪
 
-Ready to find your perfect number? Start by brainstorming your top 10 word ideas, then run them through a provider's availability checker. You might be surprised what's still out there. 🚀
+---
+
+## Vanity Number FAQs ❓
+
+### 1. How do I get a vanity number for my business?
+Choose a word or phrase, check availability through a provider like 800.com, RingBoost, or Grasshopper, pick a business phone plan, and set up call routing. Most providers let you get started in under an hour.
+
+### 2. How much does a vanity number cost?
+It varies widely. Basic toll-free vanity numbers start around $10–$50/month. Premium or rare numbers (like 1-800-LAWYER) can cost hundreds or thousands of dollars as a one-time purchase, plus monthly fees on top.
+
+### 3. Can I get a 1-800 vanity number?
+Yes, but popular words on the 800 prefix are mostly taken. Check availability — if your word isn't available on 800, try 888, 877, 844, or 833. They all work the same way.
+
+### 4. Can I use a vanity number on my mobile phone?
+Absolutely. Most modern providers offer mobile apps that let you manage your vanity number from your smartphone without revealing your personal number.
+
+### 5. Can I port my vanity number to another provider?
+Yes, vanity numbers can be ported (transferred) to another provider. Just make sure your provider supports portability before you sign up — some lock you in.
+
+### 6. What's the difference between a vanity number and a toll-free number?
+A toll-free number is any number starting with 800, 888, 877, etc. — it's free for customers to call. A vanity number is a *type* of phone number (toll-free or local) that's been customized to spell a word or use a memorable pattern. All vanity toll-free numbers are toll-free, but not all toll-free numbers are vanity numbers.
+
+### 7. Do customers have to dial the letters or the numbers?
+Either works. Customers can dial the letters (most modern phones map them to digits automatically) or the actual digits. Both reach the same number.
+
+### 8. Can a small business afford a vanity number?
+Yes. You don't need to buy a premium 800 number to get started. A vanity number on an 833 or 844 prefix can cost as little as $10–$25/month — very affordable even for solo businesses.
+
 
