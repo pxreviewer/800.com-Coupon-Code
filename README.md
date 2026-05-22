@@ -103,7 +103,6 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 All codes are 100% working for May 2026. Click SHOW COUPON to reveal and copy — or use directly at checkout on the 800.com website. 📞</strong>
 
 <br/><br/>
-
 <p align="center">
   <a href="#" rel="nofollow noopener">
     <img src="./images/cta-coupon-code-button.png" width="350">
@@ -256,6 +255,10 @@ Rings all your numbers at the same time — first person to answer gets the call
 ### 🌐 VoIP / WiFi Calling
 Make and receive calls over your internet connection — no traditional landline needed. **Best for:** Home offices, remote teams, startups.
 
+<p align="center">
+  <img src="./images/Key-features-of-800-com.png" width="500">
+</p>
+
 ### 📱 Desktop & Mobile Apps
 Stay connected from anywhere. 800.com's apps work on both desktop and mobile so your team is never out of reach. **Best for:** Flexible and remote business teams.
 
@@ -264,10 +267,6 @@ Set a custom professional greeting that plays when customers call. Instantly bui
 
 ### #️⃣ Extensions
 Create department or personal extensions. Press 1 for Sales, 2 for Support — it's that simple. **Best for:** Businesses with multiple team members or departments.
-
-<p align="center">
-  <img src="./images/Key-features-of-800-com.png" width="700">
-</p>
 
 ### 📠 Fax Number
 Send and receive faxes digitally without a fax machine. **Best for:** Law firms, medical offices, real estate agencies.
@@ -280,6 +279,10 @@ Send and receive SMS from your professional business number. **Best for:** Appoi
 
 ### 📢 SMS Marketing
 Run personalized text message campaigns to engage customers and drive repeat business. **Best for:** Retail, restaurants, real estate, service businesses.
+
+<p align="center">
+  <img src="./images/call-tracking-banner-800-com.png" width="400">
+</p>
 
 ### 📊 Call Analytics
 Track call volume, duration, source, and time of day to understand your business performance. **Best for:** Marketing-driven businesses, agencies.
@@ -300,7 +303,7 @@ Integrate 800.com with your CRM, marketing tools, or custom workflows. **Best fo
 See who is calling before you pick up. Filter spam and prepare for the conversation. **Best for:** Consultants, solo entrepreneurs.
 
 <p align="center">
-  <img src="./images/call-tracking-banner-800-com.png" width="700">
+  <img src="./images/call-analytics-800-com.png" width="400">
 </p>
 
 ### 🤖 AI Agents
@@ -349,6 +352,10 @@ These 800.com coupon codes are not permanent. Here’s why you should act now:
 - 🔥 **PRO60 (Up to 60% Off Pro Plan)** is a limited-run flash code and could disappear after the first 500 redemptions.
 
 - 🎉 **START55 (55% Off Startup Plan)** is part of a Q2 promotion ending on **May 31, 2026**.
+
+<p align="center">
+  <img src="./images/limited-time-offers-800-com.jpg" width="500">
+</p>
 
 - 🎯 **SMART50 (50% Off Small Business Plan)** is available only through select affiliate partners, so it may not return next month.
 
@@ -403,6 +410,9 @@ No active code right now? These strategies still save you real money:
 | **Canadian Numbers** | Canada operations, cross-border teams | 1-888-555-0199 | Reach Canadian customers professionally | Only if you serve the Canadian market |
 | **Port Your Number** | Keeping existing business number | Your current number | Zero disruption to your existing brand | Saves cost vs buying a new premium number |
 
+<p align="center">
+  <img src="./images/toll-free-vanity-number.png" width="700">
+</p>
 
 ## ⚠️ Common Mistakes to Avoid When Using 800.com Promo Codes
 
