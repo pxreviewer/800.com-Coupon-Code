@@ -56,20 +56,18 @@ There's no complicated hardware to install. Everything runs in the cloud, and 80
 
 
 
-## 📌3. 800.com Number Types — Toll-Free, Local, Vanity, Premium & Canadian Numbers
+## 📌 3. 800.com Number Types — Toll-Free, Local, Vanity, Premium & Canadian Numbers
 
 One of the biggest reasons businesses choose 800.com is the variety of phone number types available. Here's a breakdown:
 
-| **Number Type**     | **Best For**                                    | **Example**          | **Branding Value** | **Availability Note**                  |
-||-|-|--|-|
-| Toll-Free Numbers   | National reach, customer support                | 1-800-555-0100       | ⭐⭐⭐⭐⭐              | High availability across all prefixes  |
-| Local Numbers       | Local businesses, regional trust                | (212) 555-0150       | ⭐⭐⭐⭐               | Based on area code availability        |
-| Vanity Numbers      | Brand recall, advertising, lead gen             | 1-800-FLOWERS style  | ⭐⭐⭐⭐⭐              | Availability varies by keyword         |
-| Premium Numbers     | High-value advertising, memorable sequences     | 1-800-800-1234       | ⭐⭐⭐⭐⭐              | Limited, higher cost                   |
-| Canadian Numbers    | Canada operations, cross-border businesses      | 1-888-555-0199       | ⭐⭐⭐⭐               | Available for Canada market            |
-| Port Your Number    | Businesses keeping their existing number        | Your current number  | ⭐⭐⭐⭐⭐              | ~2 weeks average porting time          |
-
-
+| Number Type | Best For | Example | Branding Value | Availability Note |
+|-------------|----------|---------|----------------|-------------------|
+| **Toll-Free Numbers** | National reach, customer support | 1-800-555-0100 | ⭐⭐⭐⭐⭐ | High availability across all prefixes |
+| **Local Numbers** | Local businesses, regional trust | (212) 555-0150 | ⭐⭐⭐⭐ | Based on area code availability |
+| **Vanity Numbers** | Brand recall, advertising, lead gen | 1-800-FLOWERS style | ⭐⭐⭐⭐⭐ | Availability varies by keyword |
+| **Premium Numbers** | High-value advertising, memorable sequences | 1-800-800-1234 | ⭐⭐⭐⭐⭐ | Limited, higher cost |
+| **Canadian Numbers** | Canada operations, cross-border businesses | 1-888-555-0199 | ⭐⭐⭐⭐ | Available for Canada market |
+| **Port Your Number** | Businesses keeping their existing number | Your current number | ⭐⭐⭐⭐⭐ | ~2 weeks average porting time |
 
 ## 📌4. 800.com Toll-Free Number Review 📱
 
@@ -357,7 +355,7 @@ One of the strongest parts of 800.com is how many business communication feature
 
 
 
-## 📌9. 800.com Pricing & Plans Explained 💰
+## 📌 9. 800.com Pricing & Plans Explained 💰
 
 800.com offers three plans, with both monthly and annual billing options. Annual billing saves you 15% compared to monthly billing.
 
@@ -365,13 +363,15 @@ One of the strongest parts of 800.com is how many business communication feature
 
 ### Pricing Table
 
-| **Plan**           | **Monthly Price** | **Annual Price** | **Numbers** | **Minutes**       | **Users**         | **Extensions**     | **Best For**                              |
-|--|-||-|-|-|--|-|
-| **Startup**        | $23/mo            | $19/mo           | 1 number    | 1,000 minutes     | 1 user            | 1 extension        | Individuals, solopreneurs                 |
-| **Small Business** | $59/mo            | $49/mo           | 3 numbers   | Unlimited*        | 3 users           | 3 extensions       | Small teams, growing businesses ⭐ Best Value |
-| **Unlimited**      | $117/mo           | $99/mo           | 5 numbers   | Unlimited*        | Unlimited seats   | Unlimited extensions | Organizations, larger support teams    |
+| Plan | Monthly Price | Annual Price | Numbers | Minutes | Users | Extensions | Best For |
+|------|---------------|--------------|---------|---------|-------|------------|----------|
+| **Startup** | $23/mo | $19/mo | 1 number | 1,000 minutes | 1 user | 1 extension | Individuals, solopreneurs |
+| **Small Business** ⭐ Best Value | $59/mo | $49/mo | 3 numbers | Unlimited* | 3 users | 3 extensions | Small teams, growing businesses |
+| **Unlimited** | $117/mo | $99/mo | 5 numbers | Unlimited* | Unlimited seats | Unlimited extensions | Organizations, larger support teams |
 
 *Unlimited minutes are subject to 800.com's Fair Usage Policy.
+
+---
 
 ### What's Included in Every Plan?
 
@@ -394,8 +394,6 @@ Every single 800.com plan — including the entry-level Startup plan — include
 **No activation fees** for local or toll-free numbers. No long-term contracts required. All plans come with a **30-day money-back guarantee**.
 
 Additional numbers can be added to your account at any time through your dashboard.
-
-
 
 ## 📌 10. 800.com Pros & Cons
 
