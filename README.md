@@ -130,7 +130,7 @@ All codes are 100% working for May 2026. Click SHOW COUPON to reveal and copy �
 
 Go to 800.com website. Avoid third-party reseller pages that may have expired codes or outdated pricing. The official site always has the most current deals and verified pricing.
 <p align="center">
-  <img src="./images/800-get-started-home-page.png" width="500">
+  <img src="./images/800-com-website-interface.jpg" width="700">
 </p>
 
 ### Step 2 — Choose Your Number Type
@@ -145,7 +145,7 @@ Go to 800.com website. Avoid third-party reseller pages that may have expired co
 - 🔄 **Port Your Number** — Transfer your existing business number
 
 <p align="center">
-  <img src="./images/800-com-Search-for-Toll-Free-and-Vanity-Numbers.png" width="500">
+  <img src="./images/Search for Toll-Free and Vanity Numbers.jpg" width="700">
 </p>
 
 ### Step 3 — Select Your Preferred Number
