@@ -163,15 +163,14 @@ Compare plans carefully:
 - **SMS needs** — Business texting is included in all plans
 
 <p align="center">
-  <img src="./images/800-com-Pricing-choose-suitable.png" width="500">
+  <img src="./images/800.com Choose Pricing.jpg" width="700">
 </p>
-
 ### Step 5 — Enter the Coupon Code at Checkout
 
 If a promo code field is available at checkout, enter your verified 800.com coupon code there. Some deals may apply automatically based on your plan selection or billing cycle.
 
 <p align="center">
-  <img src="./images/800 checkout page.png" width="500">
+  <img src="./images/800.com Purchase Vanity & Toll-Free Numbers.jpg" width="700">
 </p>
 
 > 💡 **Pro Tip:** Before completing checkout, confirm the discount is clearly visible in your final price summary. If the code doesn't apply, try another from our list or check the official site for current offers.
@@ -256,7 +255,7 @@ Rings all your numbers at the same time — first person to answer gets the call
 Make and receive calls over your internet connection — no traditional landline needed. **Best for:** Home offices, remote teams, startups.
 
 <p align="center">
-  <img src="./images/Key-features-of-800-com.png" width="500">
+  <img src="./images/Key-features-of-800-com.png" width="400">
 </p>
 
 ### 📱 Desktop & Mobile Apps
@@ -281,7 +280,7 @@ Send and receive SMS from your professional business number. **Best for:** Appoi
 Run personalized text message campaigns to engage customers and drive repeat business. **Best for:** Retail, restaurants, real estate, service businesses.
 
 <p align="center">
-  <img src="./images/call-tracking-banner-800-com.png" width="400">
+  <img src="./images/call-analytics-800-com.webp" width="400">
 </p>
 
 ### 📊 Call Analytics
@@ -303,7 +302,7 @@ Integrate 800.com with your CRM, marketing tools, or custom workflows. **Best fo
 See who is calling before you pick up. Filter spam and prepare for the conversation. **Best for:** Consultants, solo entrepreneurs.
 
 <p align="center">
-  <img src="./images/call-analytics-800-com.png" width="400">
+  <img src="./images/sms-marketing-800-com.webp" width="400">
 </p>
 
 ### 🤖 AI Agents
@@ -315,7 +314,9 @@ Turn every call into AI-generated summaries, quality scores, and recommended fol
 ### 🆔 Enhanced Caller ID
 Know exactly who is calling before you answer — personalize every conversation. **Best for:** Sales teams, service businesses, support centers.
 
-
+<p align="center">
+  <img src="./images/call-forwarding-800-com.webp" width="400">
+</p>
 ## 💸 How Much Can You Save With 800.com Coupon Codes?
 
 Here's a practical savings breakdown based on official 800.com pricing:
@@ -373,7 +374,7 @@ These 800.com coupon codes are not permanent. Here’s why you should act now:
 - 🛠️ This page is updated every **48 hours** to keep offers fresh and verified.
 
 <p align="center">
-  <img src="./images/800-com-how-much-you-will-be-save-using-coupon-code.png" width="300">
+  <img src="./images/call-tracking-800-com.webp" width="700">
 </p>
 
 ###💡 Pro Tip for Maximum Savings
