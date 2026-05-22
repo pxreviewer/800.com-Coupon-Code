@@ -101,7 +101,11 @@ All codes are 100% working for May 2026. Click SHOW COUPON to reveal and copy â€
 
 <br/><br/>
 
-[![Get My Coupon Code Now](https://img.shields.io/badge/ðŸ”¥%20Get%20My%20Coupon%20Code%20Now!-FF6B00?style=for-the-badge&logoColor=white)](https://www.800.com/plans)
+<p align="center">
+  <a href="https://your-affiliate-link.com" rel="nofollow noopener">
+    <img src="./images/800-com-coupon-code-cta-button.png" width="350">
+  </a>
+</p>
 
 </div>
 ---
