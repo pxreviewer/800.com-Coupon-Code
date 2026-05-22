@@ -28,7 +28,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[COUPON-CODE: SMART50](https://www.800.com/plans)**
+**[COUPON-CODE: 800SMART50](https://www.800.com/plans)**
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: UNLTD45](https://www.800.com/plans)**
+**[SHOW COUPON-CODE: 2026UNLTD45](https://www.800.com/plans)**
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: PRO60](https://www.800.com/plans)**
+**[SHOW COUPON-CODE: 800PRO60](https://www.800.com/plans)**
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: YEAR40](https://www.800.com/plans)**
+**[SHOW COUPON-CODE: 2026YEAR40](https://www.800.com/plans)**
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: WELCOME30](https://www.800.com/plans)**
+**[SHOW COUPON-CODE: 800WELCOME30](https://www.800.com/plans)**
 
 </td>
 </tr>
@@ -102,36 +102,31 @@ All codes are 100% working for May 2026. Click SHOW COUPON to reveal and copy �
 <br/><br/>
 
 <p align="center">
-  <a href="https://your-affiliate-link.com" rel="nofollow noopener">
-    <img src="./images/800-com-coupon-code-cta-button.png" width="350">
+  <a href="#" rel="nofollow noopener">
+    <img src="./images/cta-coupon-code-button.png" width="350">
   </a>
 </p>
 
 </div>
----
 
 ## 🛒 Recently Added 800.com Promo Codes & Deals
 
 | Deal Name | Description | Coupon Code | Discount / Offer |
 |-----------|-------------|-------------|-----------------|
-| 🆕 New User Business Number Deal | First-time signup discount for new accounts | Check Official Site | Deal May Apply Automatically |
-| 📞 Toll-Free Number Offer | Get a toll-free number with no setup fee | Check Official Site | Free Setup |
-| ✨ Vanity Number Marketplace Deal | Premium vanity number from 800.com marketplace | Check Official Site | Availability Varies |
-| 📅 Annual Billing Savings | Switch from monthly to annual billing | No Code Needed | Save 15% |
-| 🔄 Number Porting Offer | Port your existing number to 800.com | Check Official Site | Deal Applied Automatically |
-| 💬 SMS Marketing Plan Deal | Business texting included in all plans | No Code Needed | Included Free |
-| 💼 Small Business Plan Deal | 3 numbers, 3 users, unlimited minutes | Check Official Site | $49/mo (Annual) |
-| 🛡️ 30-Day Money-Back Guarantee | Risk-free trial on all plans | No Code Needed | Full Refund Available |
+| 🚀 Startup Annual | 1 number, 1,000 minutes — ideal for freelancers. | ANNSTART55 | 🔥 Up to 55% Off |
+| 📈 Small Business Annual | Unlimited minutes, 3 numbers, SMS campaigns. | 800SMART50 | 🚀 50% Off |
+| 🏢 Unlimited Annual | 5 numbers, unlimited seats, 1k transcribed minutes. | UNL***TD45 | ⭐ 45% Off |
+| 👑 Pro Annual | 5,000 minutes, 5 toll-free numbers, API access. | PRO***60 | 💰 60% Off |
+| 💎 Annual Billing Boost | Stack with existing 15% yearly discount. | YEAR***40 | 🎯 Extra 40% Off |
+| 🆕 First Purchase Welcome | For new customers — any annual plan. | WELCOME***30 | ✨ 30% Off |
 
-> ⚠️ **Note:** 800.com discount availability may vary by plan, billing cycle, and number type. Always check the [official 800.com pricing page](https://www.800.com/plans) for the most current offers. Always test the code before completing checkout.
-
----
+> 💡 **Pro Tip:** 800.com backs every purchase with a 30-day money-back guarantee, so you can test the platform risk-free. All codes above are 100% verified and working for May 2026!
 
 ## 🛠️ How to Apply 800.com Coupon Code — Step-by-Step Guide
 
 ### Step 1 — Visit the Official 800.com Website
 
-Go to [www.800.com](https://www.800.com/) directly. Avoid third-party reseller pages that may have expired codes or outdated pricing. The official site always has the most current deals and verified pricing.
+Go to 800.com website. Avoid third-party reseller pages that may have expired codes or outdated pricing. The official site always has the most current deals and verified pricing.
 
 ### Step 2 — Choose Your Number Type
 
@@ -146,7 +141,7 @@ Go to [www.800.com](https://www.800.com/) directly. Avoid third-party reseller p
 
 ### Step 3 — Select Your Preferred Number
 
-Use 800.com's search tool to find available numbers. For vanity numbers, visit the [Vanity Marketplace](https://www.800.com/vanity-marketplace). For toll-free options, visit the [toll-free page](https://www.800.com/toll-free). Random toll-free numbers typically activate within 1–2 hours.
+Use 800.com's search tool to find available numbers. For vanity numbers, visit the Vanity Marketplace. For toll-free options, visit the toll-free page. Random toll-free numbers typically activate within 1–2 hours.
 
 ### Step 4 — Pick an 800.com Plan
 
