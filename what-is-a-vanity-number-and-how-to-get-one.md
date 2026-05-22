@@ -1,5 +1,8 @@
 # What Is a Vanity Number & How to Get One? (2026)
 
+<p align="center">
+  <img src="./images/vanity-number-toll-free.png" width="700">
+</p>
 
 📞 Imagine running a radio ad and your phone number is just… **1-800-447-2938**. Good luck getting anyone to remember that. Now imagine that same ad ends with **"Call 1-800-FLOWERS"** — and suddenly, everyone knows exactly who you are and how to reach you. That's the power of a vanity number.
 
