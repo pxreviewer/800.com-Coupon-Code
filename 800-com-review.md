@@ -41,7 +41,9 @@ Beyond the number itself, 800.com is a full-featured virtual phone system. Once 
 - E-commerce brands that want to add phone support
 - Lead generation businesses that need call tracking and analytics
 
-
+<p align="center">
+  <img src="./images/call-tracking-banner-800-com.png" width="400">
+</p>
 
 ## 📌2. How 800.com Works for Business Phone Numbers
 
@@ -99,7 +101,9 @@ Toll-free numbers are especially powerful for:
 
 With 800.com, toll-free numbers can be set up quickly random toll-free numbers are typically activated within 1-2 hours according to official 800.com information.
 
-
+<p align="center">
+  <img src="./images/800-Gain-insights-from-every-conversation.png" width="400">
+</p>
 
 ## 📌5. 800.com Vanity Phone Number Review ✨
 
@@ -204,6 +208,10 @@ The average porting time is approximately **2 weeks**.
 
 One of the strongest parts of 800.com is how many business communication features come included with every plan. Let's break them all down.
 
+<p align="center">
+  <img src="./images/Key-features-of-800-com.png" width="400">
+</p>
+
 ### 📱 Desktop & Mobile Apps
 
 **What it does:** 800.com has apps for both desktop and mobile, so you and your team can make and receive calls from anywhere.
@@ -225,6 +233,9 @@ One of the strongest parts of 800.com is how many business communication feature
 
 
 ### 📲 Call Forwarding (Standard, Sequential & Simultaneous)
+<p align="center">
+  <img src="./images/Benefits-of-800-com-Call-Forwarding.png" width="400">
+</p>
 
 800.com includes three types of call forwarding — making it more flexible than many basic virtual phone systems.
 
@@ -286,7 +297,9 @@ One of the strongest parts of 800.com is how many business communication feature
 
 **Best for:** E-commerce brands, appointment-based businesses, local service providers, lead generation campaigns.
 
-
+<p align="center">
+  <img src="./images/sms-marketing-800-com.png" width="400">
+</p>
 
 ### 📊 Call Analytics & Call Tracking
 
@@ -336,6 +349,9 @@ One of the strongest parts of 800.com is how many business communication feature
 
 **Best for:** Businesses with high call volume, after-hours support needs, lead qualification.
 
+<p align="center">
+  <img src="./images/800-com-ai-agents-features.png" width="700">
+</p>
 
 
 ### 🧠 800 Intelligence™ (AI Feature)
@@ -365,6 +381,10 @@ One of the strongest parts of 800.com is how many business communication feature
 > ⚠️ **Note:** Pricing may change. Always check the official 800.com pricing page for the most current rates.
 
 ### Pricing Table
+
+<p align="center">
+  <img src="./images/800-com-pricing-plan.png" width="700">
+</p>
 
 | Plan | Monthly Price | Annual Price | Numbers | Minutes | Users | Extensions | Best For |
 |------|---------------|--------------|---------|---------|-------|------------|----------|
@@ -414,7 +434,9 @@ Additional numbers can be added to your account at any time through your dashboa
 | No setup fees, no long-term contracts, 30-day money-back guarantee | |
 | G2-recognized for Easiest to Use and Easiest Setup (Mid-Market & SMB) | |
 
----
+<p align="center">
+  <img src="./images/call-analytics-800-com.png" width="400">
+</p>
 
 ## 📌 11. 800.com vs Competitors — Grasshopper, RingCentral, Nextiva & OpenPhone ⚔️
 
