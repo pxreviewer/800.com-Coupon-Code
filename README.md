@@ -43,7 +43,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: 2026UNLTD45](#)**
+**[COUPON-CODE: 2026UNLTD45](#)**
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: 800PRO60](#)**
+**[COUPON-CODE: 800PRO60](#)**
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: 2026YEAR40](#)**
+**[COUPON-CODE: 2026YEAR40](#)**
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ And with our 100% working codes for May 2026, you'll save even more on an alread
 </td>
 <td width="20%" align="center">
 
-**[SHOW COUPON-CODE: 800WELCOME30](#)**
+**[COUPON-CODE: 800WELCOME30](#)**
 
 </td>
 </tr>
