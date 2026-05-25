@@ -298,8 +298,7 @@ One of the strongest parts of 800.com is how many business communication feature
 **Best for:** E-commerce brands, appointment-based businesses, local service providers, lead generation campaigns.
 
 <p align="center">
-  <img src="./images/sms-marketing-800-com-image.webp
-" width="400">
+  <img src="./images/sms-marketing-800-com-image.webp" width="400">
 </p>
 
 ### 📊 Call Analytics & Call Tracking
@@ -436,7 +435,7 @@ Additional numbers can be added to your account at any time through your dashboa
 | G2-recognized for Easiest to Use and Easiest Setup (Mid-Market & SMB) | |
 
 <p align="center">
-  <img src="./images/call-analytics-800-com.png" width="400">
+  <img src="./images/call-analytics-hero-800-com.webp" width="400">
 </p>
 
 ## 📌 11. 800.com vs Competitors — Grasshopper, RingCentral, Nextiva & OpenPhone ⚔️
@@ -490,7 +489,6 @@ How does 800.com stack up against the competition? Here's an honest comparison.
 - Teams that rely entirely on live chat platforms and have no phone-based customer interaction
 
 
-
 ## 📌13. 800.com Customer Reviews & User Feedback 🌟
 
 800.com has earned recognition across multiple review platforms:
@@ -518,6 +516,9 @@ How does 800.com stack up against the competition? Here's an honest comparison.
 Overall, the feedback pattern is consistent: 800.com delivers on its promise of professional business numbers with solid communication features, and the platform earns high marks for ease of use and setup.
 
 
+<p align="center">
+  <img src="./images/Your-business-anytime-anywhere-image.png" width="400">
+</p>
 
 ## 📌14. 800.com Alternatives — Best Tools to Compare 🔄
 
