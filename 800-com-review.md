@@ -102,7 +102,7 @@ Toll-free numbers are especially powerful for:
 With 800.com, toll-free numbers can be set up quickly random toll-free numbers are typically activated within 1-2 hours according to official 800.com information.
 
 <p align="center">
-  <img src="./images/800-Gain-insights-from-every-conversation.png" width="400">
+  <img src="./images/call-forwarding-800-com-image.webp" width="400">
 </p>
 
 ## 📌5. 800.com Vanity Phone Number Review ✨
@@ -298,7 +298,8 @@ One of the strongest parts of 800.com is how many business communication feature
 **Best for:** E-commerce brands, appointment-based businesses, local service providers, lead generation campaigns.
 
 <p align="center">
-  <img src="./images/sms-marketing-800-com.png" width="400">
+  <img src="./images/sms-marketing-800-com-image.webp
+" width="400">
 </p>
 
 ### 📊 Call Analytics & Call Tracking
