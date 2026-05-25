@@ -383,7 +383,7 @@ One of the strongest parts of 800.com is how many business communication feature
 ### Pricing Table
 
 <p align="center">
-  <img src="./images/800-com-pricing-plan.png" width="700">
+  <img src="./images/800-com-pricing-plan.png" width="400">
 </p>
 
 | Plan | Monthly Price | Annual Price | Numbers | Minutes | Users | Extensions | Best For |
@@ -517,7 +517,7 @@ Overall, the feedback pattern is consistent: 800.com delivers on its promise of 
 
 
 <p align="center">
-  <img src="./images/Your-business-anytime-anywhere-image.png" width="400">
+  <img src="./images/Your-business-anytime-anywhere-image.png" width="300">
 </p>
 
 ## 📌14. 800.com Alternatives — Best Tools to Compare 🔄
