@@ -107,27 +107,28 @@ The Unlimited plan is for organizations that have outgrown a 3-user limit. Unlim
 
 ## 3. Business Phone Plans Comparison Table 📊
 
-| Feature | **Startup** | **Small Business** ⭐ | **Unlimited** |
-||:--:|:--:|:-:|
-| Monthly Price | $23/mo | $59/mo | $117/mo |
-| Annual Price | **$19/mo** | **$49/mo** | **$99/mo** |
-| Business Numbers | 1 | 3 | 5 |
-| Users | 1 | 3 | Unlimited |
-| Extensions | 1 | 3 | Unlimited |
-| Call Minutes | 1,000 min | Unlimited* | Unlimited* |
-| Call Forwarding (3 types) | ✅ | ✅ | ✅ |
-| Business Texting | ✅ | ✅ | ✅ |
-| Voicemail + Transcription | ✅ | ✅ | ✅ |
-| Call Recording | ✅ | ✅ | ✅ |
-| Call Analytics | ✅ | ✅ | ✅ |
-| Mobile & Desktop Apps | ✅ | ✅ | ✅ |
-| VoIP / WiFi Calling | ✅ | ✅ | ✅ |
-| Fax Number | ✅ | ✅ | ✅ |
-| API & Webhook Access | ✅ | ✅ | ✅ |
-| Call Screening | ✅ | ✅ | ✅ |
-| 30-Day Money-Back | ✅ | ✅ | ✅ |
-| Setup Fee | None | None | None |
-| **Best For** | Solopreneurs | Small teams ⭐ | Organizations |
+| Feature                   | Startup      | Small Business ⭐ | Unlimited     |
+| ------------------------- | ------------ | ---------------- | ------------- |
+| Monthly Price             | $23/mo       | $59/mo           | $117/mo       |
+| Annual Price              | $19/mo       | $49/mo           | $99/mo        |
+| Business Numbers          | 1            | 3                | 5             |
+| Users                     | 1            | 3                | Unlimited     |
+| Extensions                | 1            | 3                | Unlimited     |
+| Call Minutes              | 1,000 Min    | Unlimited*       | Unlimited*    |
+| Call Forwarding (3 Types) | ✅            | ✅                | ✅             |
+| Business Texting          | ✅            | ✅                | ✅             |
+| Voicemail + Transcription | ✅            | ✅                | ✅             |
+| Call Recording            | ✅            | ✅                | ✅             |
+| Call Analytics            | ✅            | ✅                | ✅             |
+| Mobile & Desktop Apps     | ✅            | ✅                | ✅             |
+| VoIP / WiFi Calling       | ✅            | ✅                | ✅             |
+| Fax Number                | ✅            | ✅                | ✅             |
+| API & Webhook Access      | ✅            | ✅                | ✅             |
+| Call Screening            | ✅            | ✅                | ✅             |
+| 30-Day Money-Back         | ✅            | ✅                | ✅             |
+| Setup Fee                 | None         | None             | None          |
+| Best For                  | Solopreneurs | Small Teams ⭐    | Organizations |
+
 
 **Best value:** The **Small Business plan at $49/mo** (annual). Unlimited minutes, 3 numbers, 3 users, every feature included — most small businesses will never need to go beyond this.
 
