@@ -333,7 +333,7 @@ It's affordable, easy to set up, and works well for businesses already using Goo
 But there's a critical limitation every business owner needs to understand before choosing Google Voice.
 
 <p align="center">
-  <img src="./images/Google-Voice-workplace-interface.png" width="500">
+  <img src="./images/Google-Voice-workplace-home-interface.png" width="500">
 </p> 
 
 ### ⚠️ Important Note: Google Voice Does NOT Offer Toll-Free Numbers
