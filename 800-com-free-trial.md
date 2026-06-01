@@ -383,7 +383,7 @@ The bottom line: 800.com doesn't offer a traditional free trial — but the 30-d
 - Yes — if your business depends on inbound phone calls. The 30-day window is genuinely long enough to test every feature, evaluate call quality, and see whether the platform fits your workflow. The risk is low when compared to the potential value of a professional toll-free number with analytics and SMS built in.
 
 **8. Is the refund process easy?**
-- Based on official policy, yes. 800.com's support team handles refund requests directly. The key is acting within the 30-day window. Contact support via phone or the support portal at [support.800.com](https://support.800.com).
+- Based on official policy, yes. 800.com's support team handles refund requests directly. The key is acting within the 30-day window. Contact support via phone or the support portal at support 800.com.
 
 
 *Last updated: June 2026 | Based on official 800.com support documentation and pricing pages. Terms subject to change — verify at support.800.com before purchasing.*
