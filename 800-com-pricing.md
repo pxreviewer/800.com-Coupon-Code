@@ -234,49 +234,44 @@ Scale is the enterprise tier. 50 numbers, unlimited users, and scalable minute p
 
 ## 5. Call Tracking Plans Comparison Table 📊
 
-| Feature | **Starter** | **Grow** | **Pro** ⭐ | **Scale** |
-||:--:|:--:|::|::|
-| Annual Price | $50/mo | $100/mo | **$200/mo** | $500/mo+ |
-| Monthly Price | $60/mo | $120/mo | $240/mo | $600/mo+ |
-| Business Numbers | 5 | 10 | 20 | 50 |
-| Users | 5 | 10 | Unlimited | Unlimited |
-| Call Minutes | 500 | 1,000 | 2,000 | 5,000+ |
-| SMS Text | 500 | 1,000 | 2,000 | 5,000 |
-| Transcription Min | 500 | 1,000 | 2,000 | 5,000 |
-| AI Insights Min | 500 | 1,000 | 2,000 | 5,000 |
-| Enhanced Caller ID | 500 | 1,000 | 2,000 | 5,000 |
-| Whitelabel App | ❌ | ❌ | ✅ | ✅ |
-| Multi-account Mgmt | ❌ | ❌ | ✅ | ✅ |
-| Ad Integrations | ✅ | ✅ | ✅ | ✅ |
-| CRM Integrations | ✅ | ✅ | ✅ | ✅ |
-| 800 Intelligence™ | ✅ | ✅ | ✅ | ✅ |
-| 30-Day Money-Back | ✅ | ✅ | ✅ | ✅ |
-| **Best For** | Local biz | Growing teams | Agencies ⭐ | Enterprise |
+| Feature            | Starter   | Grow          | Pro ⭐      | Scale      |
+| ------------------ | --------- | ------------- | ---------- | ---------- |
+| Annual Price       | $50/mo    | $100/mo       | $200/mo    | $500/mo+   |
+| Monthly Price      | $60/mo    | $120/mo       | $240/mo    | $600/mo+   |
+| Business Numbers   | 5         | 10            | 20         | 50         |
+| Users              | 5         | 10            | Unlimited  | Unlimited  |
+| Call Minutes       | 500       | 1,000         | 2,000      | 5,000+     |
+| SMS Text           | 500       | 1,000         | 2,000      | 5,000      |
+| Transcription Min  | 500       | 1,000         | 2,000      | 5,000      |
+| AI Insights Min    | 500       | 1,000         | 2,000      | 5,000      |
+| Enhanced Caller ID | 500       | 1,000         | 2,000      | 5,000      |
+| Whitelabel App     | ❌         | ❌             | ✅          | ✅          |
+| Multi-account Mgmt | ❌         | ❌             | ✅          | ✅          |
+| Ad Integrations    | ✅         | ✅             | ✅          | ✅          |
+| CRM Integrations   | ✅         | ✅             | ✅          | ✅          |
+| 800 Intelligence™  | ✅         | ✅             | ✅          | ✅          |
+| 30-Day Money-Back  | ✅         | ✅             | ✅          | ✅          |
+| Best For           | Local Biz | Growing Teams | Agencies ⭐ | Enterprise |
 
-**Best ROI:** The **Pro plan at $200/mo** for agencies. The whitelabel app and multi-account management let you resell call tracking as a service — turning a $200/mo cost into a billable agency deliverable worth many times that.
+**Best ROI:** The Pro plan at $200/mo for agencies. The whitelabel app and multi-account management let you resell call tracking as a service — turning a $200/mo cost into a billable agency deliverable worth many times that.
 
-
+---
 
 ## 6. Business Phone Plans vs Call Tracking Plans — Which One Should You Choose? 🤔
 
-| Business Type | Best Choice | Reason |
-|||--|
-| Solopreneur | Business Phone — Startup | One number, one user, full features |
-| Small team (2–3 people) | Business Phone — Small Business | Unlimited minutes, 3 users, 3 numbers |
-| Growing organization | Business Phone — Unlimited | Unlimited seats + extensions |
-| Local biz running ads | Both — Phone + Tracking Starter | Communication + campaign measurement |
-| Marketing agency | Call Tracking — Pro or Scale | Whitelabel + multi-account management |
-| Multi-location brand | Call Tracking — Pro or Scale | Separate tracking per location |
-| Customer support team | Business Phone — Small Business or Unlimited | Routing, extensions, voicemail |
-| Lead generation biz | Call Tracking — Grow or Pro | Prove ROI on every campaign |
-| Sales team | Both — Phone + Tracking | Communication AND marketing intelligence |
-| Budget user | Business Phone — Startup | Lowest cost, all features, one number |
+| Business Type              | Best Choice                                  | Reason                                   |
+| -------------------------- | -------------------------------------------- | ---------------------------------------- |
+| Solopreneur                | Business Phone — Startup                     | One number, one user, full features      |
+| Small Team (2–3 People)    | Business Phone — Small Business              | Unlimited minutes, 3 users, 3 numbers    |
+| Growing Organization       | Business Phone — Unlimited                   | Unlimited seats + extensions             |
+| Local Business Running Ads | Phone + Tracking Starter                     | Communication + campaign measurement     |
+| Marketing Agency           | Call Tracking — Pro or Scale                 | Whitelabel + multi-account management    |
+| Multi-location Brand       | Call Tracking — Pro or Scale                 | Separate tracking per location           |
+| Customer Support Team      | Business Phone — Small Business or Unlimited | Routing, extensions, voicemail           |
+| Lead Generation Business   | Call Tracking — Grow or Pro                  | Prove ROI on every campaign              |
+| Sales Team                 | Phone + Tracking                             | Communication AND marketing intelligence |
+| Budget User                | Business Phone — Startup                     | Lowest cost, all features, one number    |
 
-**Simple rule:** 👇
-
-- Need a **professional phone number + communication tools** → Business Phone Plans
-- Need to **track which ads drive phone calls** → Call Tracking Plans
-- Running **advertising AND a phone team** → Consider both
 
 
 
@@ -310,24 +305,25 @@ Bring your existing business number to 800.com. No setup fee. Average transfer t
 
 ### Business Phone Plans (Save 15% Annual)
 
-| Plan | Monthly | Annual | You Save |
-|||--|-|
-| Startup | $23/mo | $19/mo | **$48/year** |
-| Small Business | $59/mo | $49/mo | **$120/year** |
-| Unlimited | $117/mo | $99/mo | **$216/year** |
+| Plan           | Monthly | Annual | You Save  |
+| -------------- | ------- | ------ | --------- |
+| Startup        | $23/mo  | $19/mo | $48/year  |
+| Small Business | $59/mo  | $49/mo | $120/year |
+| Unlimited      | $117/mo | $99/mo | $216/year |
 
 ### Call Tracking Plans (2 Months Free Annual)
 
-| Plan | Monthly | Annual | You Save |
-|||--|-|
-| Starter | $60/mo | $50/mo | **$120/year** |
-| Grow | $120/mo | $100/mo | **$240/year** |
-| Pro | $240/mo | $200/mo | **$480/year** |
-| Scale | $600/mo | $500/mo | **$1,200/year** |
+| Plan    | Monthly | Annual  | You Save    |
+| ------- | ------- | ------- | ----------- |
+| Starter | $60/mo  | $50/mo  | $120/year   |
+| Grow    | $120/mo | $100/mo | $240/year   |
+| Pro     | $240/mo | $200/mo | $480/year   |
+| Scale   | $600/mo | $500/mo | $1,200/year |
 
-**Annual billing is almost always worth it** if you've confirmed the platform works for your business. The 30-day money-back guarantee lets you test first — then switch to annual once you're confident.
+Annual billing is almost always worth it if you've confirmed the platform works for your business. The 30-day money-back guarantee lets you test first, then switch to annual once you're confident.
 
 Monthly billing makes sense if you're still evaluating, or if your business has highly seasonal call volume and you may not need the plan year-round.
+
 
 
 
