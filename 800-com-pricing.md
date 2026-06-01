@@ -387,7 +387,7 @@ Monthly billing makes sense if you're still evaluating, or if your business has 
 
 
 
-## 12. Final Verdict — Is 800.com Worth the Price? ✅
+## 11. Final Verdict — Is 800.com Worth the Price? ✅
 
 **Short answer: Yes — if your business depends on phone calls.**
 
@@ -408,7 +408,7 @@ The thing that sets 800.com apart from competitors isn't just the pricing — it
 - [800.com Review 2026](./800-com-review.md)
 - [800.com Coupon Code 2026](./README.md)
 
-## 11. FAQs — 800.com Pricing Plans ❓
+## 12. FAQs — 800.com Pricing Plans ❓
 
 **How much does 800.com cost?**
 - Business Phone Plans start at $19/mo (annual) or $23/mo (monthly). Call Tracking Plans start at $50/mo (annual) or $60/mo (monthly).
