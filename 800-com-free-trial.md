@@ -102,43 +102,63 @@ For most businesses who are genuinely evaluating the platform rather than exploi
 
 
 
-## 4. How to Try 800.com Risk-Free 🚀
+## 📌 How to Start Your 800.com Risk-Free Trial Experience
 
-Getting started is straightforward. Here's the step-by-step process to make the most of your 30-day evaluation window.
+### Step 1 — Visit the Official 800.com Website
 
-### Step 1 — Choose Your Plan
+Head over to the official 800.com website and click **"Get Started"**. This is where you'll begin the signup process and explore the available toll-free number options and business phone plans.
 
-Go to 800.com/plans. Compare Startup ($19/mo annual), Small Business ($49/mo annual), and Unlimited ($99/mo annual). For most people evaluating the platform, the **Small Business plan** gives the most complete experience — unlimited minutes, 3 numbers, all features.
+<p align="center">
+  <img src="./images/800-com-website-interface.jpg" width="700">
+</p>
 
-### Step 2 — Select Your Number
+### Step 2 — Search for a Toll-Free or Vanity Number
 
-Choose your number type — toll-free, local, vanity, or premium. Standard toll-free numbers are activated within **1–2 hours**. Vanity numbers may take **1–5 days**. If you want to test the platform fully, pick a standard toll-free number so you're up and running immediately.
+Use the built-in search tool to find an available number for your business. You can choose a traditional toll-free number or browse vanity numbers if branding is important for your marketing campaigns.
 
-### Step 3 — Complete Signup
+<p align="center">
+  <img src="./images/Search for Toll-Free and Vanity Numbers.jpg" width="700">
+</p>
 
-Fill in your account details and complete payment. A credit card is required. You'll receive account access immediately after signup. 📱
+### Step 3 — Choose the Right Plan
 
-### Step 4 — Configure Your Account
+Review the available plans and select the one that matches your business needs. Compare call minutes, users, extensions, texting features, and other tools before continuing.
 
-Set up the basics in the first 24–48 hours:
-- ☑️ Enable call forwarding to your mobile or team phones
-- ☑️ Record your business greeting
-- ☑️ Set up voicemail boxes for your team
-- ☑️ Enable business texting
-- ☑️ Configure extensions if you have a team
+<p align="center">
+  <img src="./images/800.com Choose Pricing.jpg" width="700">
+</p>
 
-### Step 5 — Test Features Actively
+### Step 4 — Create Your Account
 
-Don't just look at the dashboard. Actually use it:
-- Make test calls to confirm forwarding works correctly
-- Send and receive test text messages
-- Check the analytics dashboard after a few calls
-- Test the mobile app on your actual phone
+Enter your contact information and business details to create your account. Follow the setup instructions and review your selected plan before proceeding to checkout.
 
-### Step 6 — Evaluate Before Day 30
+### Step 5 — Complete Your Purchase
 
-Set a reminder for Day 25 — not Day 30. You want time to contact support and initiate a refund if needed, not be scrambling on the deadline. If the platform is working well for your business, you're already set. If not, you have a clean window to exit. ⏰
+Choose your preferred number and finalize the signup process. Since 800.com operates with a 30-day money-back guarantee, you'll have an opportunity to evaluate the platform after activation.
 
+<p align="center">
+  <img src="./images/800.com Purchase Vanity & Toll-Free Numbers.jpg" width="700">
+</p>
+
+### Step 6 — Test All Features During the First 30 Days
+
+Once your account is active, start exploring the platform's key features:
+
+* ✅ Toll-free calling
+* ✅ Business texting
+* ✅ Call forwarding
+* ✅ Voicemail and transcription
+* ✅ Call analytics
+* ✅ AI Agents and 800 Intelligence™
+* ✅ Team extensions and routing
+
+This evaluation period gives businesses enough time to determine whether 800.com is the right fit for their communication needs before making a long-term commitment.
+
+<p align="center">
+  <a href="#" rel="nofollow noopener">
+    <img src="./images/cta-coupon-code-button.png" width="350">
+  </a>
+</p>
 
 
 ## 5. What Features Can You Test During the Trial Period? 📞
