@@ -334,7 +334,7 @@ But there's a critical limitation every business owner needs to understand befor
 
 <p align="center">
   <img src="./images/Google-Voice-workplace-interface.png" width="500">
-</p>
+</p> 
 
 ### ⚠️ Important Note: Google Voice Does NOT Offer Toll-Free Numbers
 
