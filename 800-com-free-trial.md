@@ -93,7 +93,7 @@ For most businesses who are genuinely evaluating the platform rather than exploi
 - Vanity and premium number costs may have separate terms — verify before purchasing
 - The guarantee is for **new customers** — it doesn't apply to plan upgrades or renewals
 
-> ⚠️ Always check the [official 800.com support page](https://support.800.com) for the most current guarantee terms before signing up.
+> ⚠️ Always check the official 800.com support page for the most current guarantee terms before signing up.
 
 ---
 
@@ -103,7 +103,7 @@ Getting started is straightforward. Here's the step-by-step process to make the 
 
 ### Step 1 — Choose Your Plan
 
-Go to [800.com/plans](https://www.800.com/plans). Compare Startup ($19/mo annual), Small Business ($49/mo annual), and Unlimited ($99/mo annual). For most people evaluating the platform, the **Small Business plan** gives the most complete experience — unlimited minutes, 3 numbers, all features.
+Go to 800.com/plans. Compare Startup ($19/mo annual), Small Business ($49/mo annual), and Unlimited ($99/mo annual). For most people evaluating the platform, the **Small Business plan** gives the most complete experience — unlimited minutes, 3 numbers, all features.
 
 ### Step 2 — Select Your Number
 
@@ -193,7 +193,7 @@ All three Business Phone Plans are available with the 30-day money-back guarante
 
 *Subject to 800.com's Fair Usage Policy.
 
-> ⚠️ Check [www.800.com/plans](https://www.800.com/plans) for the most current pricing before purchasing.
+> ⚠️ Check 800.com/plans for the most current pricing before purchasing.
 
 ---
 
@@ -259,7 +259,7 @@ If you decide 800.com isn't right for your business within the first 30 days, he
 Contact 800.com's customer support to cancel your account:
 
 - **Phone/chat support:** Available Monday–Friday, 9am–6pm Eastern Time
-- **Support portal:** [support.800.com](https://support.800.com)
+- **Support portal:** support 800.com
 - Have your account details ready — account number, email address, phone number on the account
 
 ### Refund Request Process
@@ -333,36 +333,6 @@ For businesses specifically looking for toll-free numbers, vanity numbers, call 
 
 ---
 
-## 12. FAQs + Final Verdict ✅
-
-### Frequently Asked Questions
-
-**1. Does 800.com offer a free trial?**
-Not a traditional free trial. 800.com offers a **30-day money-back guarantee** on all plans. You pay upfront, use the full platform, and can request a refund within 30 days if you're not satisfied — provided you haven't accumulated excessive usage.
-
-**2. Is there a money-back guarantee?**
-Yes. All new 800.com customers are covered by a 30-day money-back guarantee on their initial signup charge. This applies to all Business Phone Plans.
-
-**3. Can I get a refund?**
-Yes, within 30 days of signup and provided you have not accumulated excessive usage during the trial period. Contact 800.com support directly to initiate the refund. Do not wait until Day 30 — contact them a few days before your deadline.
-
-**4. Do I need a credit card to sign up?**
-Yes. A valid credit card is required to create an account and start any plan. There is no option to sign up without payment information.
-
-**5. Can I cancel anytime?**
-You can cancel your account at any time by contacting 800.com support. Cancelling within 30 days of signup qualifies you for the money-back guarantee on your initial charge. Cancelling after 30 days stops future renewals but does not generate a refund.
-
-**6. Which plan should I try first?**
-For most small businesses: the **Small Business plan at $49/mo** (annual). It gives you unlimited minutes, 3 numbers, 3 users, and access to every feature — the most complete evaluation experience. If you're solo and just need one number, start with the Startup plan at $19/mo.
-
-**7. Is 800.com worth trying?**
-Yes — if your business depends on inbound phone calls. The 30-day window is genuinely long enough to test every feature, evaluate call quality, and see whether the platform fits your workflow. The risk is low when compared to the potential value of a professional toll-free number with analytics and SMS built in.
-
-**8. Is the refund process easy?**
-Based on official policy, yes. 800.com's support team handles refund requests directly. The key is acting within the 30-day window. Contact support via phone or the support portal at [support.800.com](https://support.800.com).
-
----
-
 ### Final Verdict — Is 800.com Worth Trying? ✅
 
 Here's the honest recommendation:
@@ -379,6 +349,36 @@ The bottom line: 800.com doesn't offer a traditional free trial — but the 30-d
 
 > 💡 Sign up, choose your number, configure your system in the first 48 hours, use it actively for 3 weeks, and make your decision with real data — not a demo.
 
+
 ---
 
-*Last updated: June 2026 | Based on official 800.com support documentation and pricing pages. Terms subject to change — verify at [support.800.com](https://support.800.com) before purchasing.*
+## 12. FAQs + Final Verdict ✅
+
+### Frequently Asked Questions
+
+**1. Does 800.com offer a free trial?**
+- Not a traditional free trial. 800.com offers a **30-day money-back guarantee** on all plans. You pay upfront, use the full platform, and can request a refund within 30 days if you're not satisfied — provided you haven't accumulated excessive usage.
+
+**2. Is there a money-back guarantee?**
+- Yes. All new 800.com customers are covered by a 30-day money-back guarantee on their initial signup charge. This applies to all Business Phone Plans.
+
+**3. Can I get a refund?**
+- Yes, within 30 days of signup and provided you have not accumulated excessive usage during the trial period. Contact 800.com support directly to initiate the refund. Do not wait until Day 30 — contact them a few days before your deadline.
+
+**4. Do I need a credit card to sign up?**
+- Yes. A valid credit card is required to create an account and start any plan. There is no option to sign up without payment information.
+
+**5. Can I cancel anytime?**
+- You can cancel your account at any time by contacting 800.com support. Cancelling within 30 days of signup qualifies you for the money-back guarantee on your initial charge. Cancelling after 30 days stops future renewals but does not generate a refund.
+
+**6. Which plan should I try first?**
+- For most small businesses: the **Small Business plan at $49/mo** (annual). It gives you unlimited minutes, 3 numbers, 3 users, and access to every feature — the most complete evaluation experience. If you're solo and just need one number, start with the Startup plan at $19/mo.
+
+**7. Is 800.com worth trying?**
+- Yes — if your business depends on inbound phone calls. The 30-day window is genuinely long enough to test every feature, evaluate call quality, and see whether the platform fits your workflow. The risk is low when compared to the potential value of a professional toll-free number with analytics and SMS built in.
+
+**8. Is the refund process easy?**
+- Based on official policy, yes. 800.com's support team handles refund requests directly. The key is acting within the 30-day window. Contact support via phone or the support portal at [support.800.com](https://support.800.com).
+
+
+*Last updated: June 2026 | Based on official 800.com support documentation and pricing pages. Terms subject to change — verify at support.800.com before purchasing.*
