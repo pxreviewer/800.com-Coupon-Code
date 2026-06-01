@@ -2,7 +2,7 @@
 
 800.com has **two separate pricing systems** — Business Phone Plans and Call Tracking Plans. Most articles only cover one. This guide covers both with official data, no fluff, so you can pick the right plan fast. 💡
 
-> ⚠️ Pricing may change. Always verify at www.800.com before purchasing.
+> ⚠️ Pricing may change. Always verify at 800.com before purchasing.
 
 
 ## 1. 800.com Business Phone Plans Explained 📞
