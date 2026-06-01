@@ -5,6 +5,10 @@
 
 The good news is that 800.com offers a 30-day money-back guarantee, giving businesses a risk-free way to explore its toll-free numbers, vanity numbers, call tracking, business texting, and advanced phone system features. 
 
+<p align="center">
+  <img src="./images/800-com-risk-free-trial-thumbnail.png" width="500">
+</p>
+
 Whether you're a small business owner, marketing agency, or growing team, this trial period can help you determine if the platform fits your communication needs.
 
 In this guide, you'll learn how the 800.com free trial works, what features you can access, potential limitations, pricing details, and the best ways to maximize your savings before subscribing. Plus, we'll show you how to combine the free trial with the latest 800.com deals and discounts for even greater value.
@@ -180,6 +184,10 @@ Test all three types: **standard** (calls to one number), **sequential** (ring t
 ### 📥 Voicemail
 Leave yourself test voicemails and check the transcription accuracy. Confirm voicemail notifications arrive as expected. Test whether different extensions route to separate voicemail boxes.
 
+<p align="center">
+  <img src="./images/Key-features-of-800-com.png" width="400">
+</p>
+
 ### 📱 Mobile App
 Download the 800.com mobile app and make/receive calls through it. This is how your number works when you're away from a desk. Test call quality, ease of use, and whether push notifications work reliably.
 
@@ -194,6 +202,10 @@ Modern <a href="https://spokephone.com/how-do-business-phone-systems-work/" rel=
 ## 6. 800.com Pricing Plans You Can Try 💰
 
 All three Business Phone Plans are available with the 30-day money-back guarantee.
+
+<p align="center">
+  <img src="./images/800-com-annual-plans.png" width="700">
+</p>
 
 ### 🚀 Startup Plan — For Individuals
 - **Monthly:** $23/mo | **Annual:** $19/mo
@@ -219,7 +231,6 @@ All three Business Phone Plans are available with the 30-day money-back guarante
 *Subject to 800.com's Fair Usage Policy.
 
 > ⚠️ Check 800.com/plans for the most current pricing before purchasing.
-
 
 
 ## 7. Plan Comparison Table 📊
