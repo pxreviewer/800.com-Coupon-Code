@@ -35,6 +35,10 @@ That's why this article compares the **5 Best Toll-Free Service Providers for Bu
 
 Unlike general VoIP platforms that treat toll-free numbers as an add-on, 800.com was built around business phone numbers from day one. That specialization shows in the depth of number options, the ease of the setup process, and the quality of features included with every plan.
 
+<p align="center">
+  <img src="./images/800-com-home-page-interface.png" width="500">
+</p>
+
 800.com offers:
 - **Toll-free numbers** across all major prefixes (800, 888, 877, 866, 855, 844, 833)
 - **Vanity numbers** — including a dedicated Vanity Marketplace for premium options
@@ -129,6 +133,10 @@ If you're a freelancer, a solo consultant, or a small shop with 1–3 people, Gr
 
 Grasshopper does not offer advanced AI features, call analytics dashboards, or SMS marketing. What it does offer is **simple, reliable, affordable virtual phone service** that works out of the box.
 
+<p align="center">
+  <img src="./images/Grasshopper website interface.png" width="500">
+</p>
+
 ### Key Features of Grasshopper
 
 - 📞 **Toll-Free numbers** — 800, 888, 877, 866, 855, 844 prefixes available
@@ -194,6 +202,10 @@ Nextiva is a full-featured VoIP and customer communication platform that goes we
 
 Toll-free numbers are available on Nextiva, but they're not the platform's primary focus. If you need a toll-free number *plus* a robust VoIP system, call queues, team messaging, and customer communication tools, Nextiva is an excellent choice.
 
+<p align="center">
+  <img src="./images/nextiva-com-website-interface.png" width="500">
+</p>
+
 ### Key Features of Nextiva
 
 - 📞 **Toll-free number support** — included on Engage plan and above (with 2,000 free inbound minutes/mo)
@@ -255,6 +267,10 @@ For businesses that need more than just a toll-free number — teams that need v
 
 Toll-free numbers are included with every RingCentral plan. However, RingCentral's toll-free minute limits are relatively low on entry-level plans (100 minutes on Core), and advanced features like vanity numbers come with additional fees.
 
+<p align="center">
+  <img src="./images/RingCentral-home-page-interface.png" width="500">
+</p>
+
 ### Key Features of RingCentral
 
 - 📞 **Toll-free number** — 1 included per account on all plans
@@ -315,6 +331,10 @@ Google Voice is a business phone option tied to **Google Workspace**. It's desig
 It's affordable, easy to set up, and works well for businesses already using Google Workspace.
 
 But there's a critical limitation every business owner needs to understand before choosing Google Voice.
+
+<p align="center">
+  <img src="./images/Google-Voice-workplace-interface.png" width="500">
+</p>
 
 ### ⚠️ Important Note: Google Voice Does NOT Offer Toll-Free Numbers
 
